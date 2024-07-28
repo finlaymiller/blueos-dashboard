@@ -10,5 +10,7 @@ classifiers = [
 dependencies = [
     "requests",
     "litestar[standard]",
+    "python-can",
+    "pyusb",
 ]
 
